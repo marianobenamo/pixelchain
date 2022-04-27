@@ -1,7 +1,7 @@
 # PixelChain - NFT Studio
 
-This is a technical evaluation for NFT Studio
-[Click here](https://62696496f5968c0d438f6603--aesthetic-naiad-8ed31a.netlify.app/) to see the demo in action
+This is a technical evaluation for NFT Studio.\
+[Click here](https://62696496f5968c0d438f6603--aesthetic-naiad-8ed31a.netlify.app/) to see the demo in action.
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Infinite scrolling should be implemented, displaying a loader while the next rou
 
 ### `npm install`
 
-Install the required modules
+Install the required modules.
 
 ### `npm start`
 
