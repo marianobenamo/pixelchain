@@ -1,7 +1,7 @@
 # PixelChain - NFT Studio
 
 This is a technical evaluation for NFT Studio
-[https://62696496f5968c0d438f6603--aesthetic-naiad-8ed31a.netlify.app/](Click here) to see the demo in action
+[Click here](https://62696496f5968c0d438f6603--aesthetic-naiad-8ed31a.netlify.app/) to see the demo in action
 
 ## Requirements
 
